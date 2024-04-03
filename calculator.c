@@ -6,13 +6,15 @@ void add(int a, int b)
 }
 void sub(int a, int b)
 {
-    printf("a - b = %d\n", a-b);
+    printf("a - b = %d\n", a - b);
 }
 void mul()
 {
+    printf("a *b = %d\n", a*b);
 }
 void div()
 {
+	return 0;
 }
 
 int main(void)
