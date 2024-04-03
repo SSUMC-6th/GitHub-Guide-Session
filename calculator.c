@@ -10,9 +10,11 @@ void sub(int a, int b)
 }
 void mul()
 {
+    printf("a * b = %d\n",a * b);
 }
 void div()
 {
+    printf("a / b = %d\n",a/ b)
 }
 
 int main(void)
