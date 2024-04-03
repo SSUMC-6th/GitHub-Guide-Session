@@ -3,8 +3,9 @@
 void add()
 {
 }
-void sub()
+void sub(int a, int b)
 {
+    printf("%d ", a-b);
 }
 void mul()
 {
