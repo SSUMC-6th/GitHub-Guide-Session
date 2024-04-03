@@ -4,9 +4,9 @@ void add(int a, int b)
 {
     printf("a + b = %d\n", a + b);
 }
-void sub(int a, int b)
+void sub(int aa, int bb)
 {
-	printf("a - b = %d\n", a - b);
+	printf("a - b = %d\n", aa - bb);
 }
 void mul()
 {
