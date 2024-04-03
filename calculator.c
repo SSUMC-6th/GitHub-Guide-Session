@@ -13,6 +13,7 @@ void mul()
 }
 void div()
 {
+	printf("a / b = %d\n", a / b);
 }
 
 int main(void)
