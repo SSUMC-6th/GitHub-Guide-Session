@@ -8,8 +8,9 @@ void sub(int a, int b)
 {
     printf("%d ", a-b);
 }
-void mul()
+void mul(int a, int b)
 {
+    printf("%d\n", a*b);
 }
 void div()
 {
