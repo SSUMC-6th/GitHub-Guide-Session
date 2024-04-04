@@ -6,6 +6,7 @@ void add(int a, int b)
 }
 void sub()
 {
+	printf(" ")
 }
 void mul()
 {
