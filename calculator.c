@@ -21,7 +21,7 @@ int main(void)
 {
     while (1)
     {
-        printf("===== 계산기 프로그램 =====\n");
+        printf("=====  계산기 프로그램  =====\n");
         printf("[*] 연산 선택: ");
         int ipt = getchar();
         int a = getchar();
