@@ -39,7 +39,7 @@ int main(void)
             mul(a, b);
         case '/':
             printf("[*] 나누기를 진행합니다.\n");
-            div(a, b);
+            div(a, b); //eddyeddy
         }
     }
     return 0;
